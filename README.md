@@ -1,5 +1,3 @@
-# face-attendance-streamlit
-Streamlit-based face recognition attendance system
 # 👨‍🏫 Face Recognition Attendance System (Streamlit)
 
 > A browser-based, AI-powered attendance system using real-time face recognition built with deep learning, powered by Streamlit and OpenCV.
